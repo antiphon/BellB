@@ -1,0 +1,9 @@
+Package: BellB
+Type: Package
+Title: Evaluation of the Bell polynomial.
+Version: 1.0
+Date: 2014-07-30
+Author: Tuomas Rajala
+Maintainer: Tuomas Rajala <tuomas.rajala@iki.fi>
+Description: Evaluates: the partial and complete Bell polynomial; the Stirling number of second kind.
+License: GPL
